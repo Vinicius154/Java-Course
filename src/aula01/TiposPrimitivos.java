@@ -10,7 +10,7 @@ public class TiposPrimitivos {
 
         // TIPOS PRIMITIVOS
         // Strings
-        char letra = 'a';  // Para apenas uma letra
+        char letra = 'a';  // Para apenas uma letra.
 
         // Números
         byte valor1 = 10; // 8bits -> Cobre um range de -128 para 127
